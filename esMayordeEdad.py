@@ -1,5 +1,6 @@
 #
 edad = int(input("Ingrese su Edad: "))
+#print(type(edad))
 
 if edad >= 18:
     #Verdadero
